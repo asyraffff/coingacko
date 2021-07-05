@@ -15,7 +15,7 @@ const useStyles = createUseStyles({
 const App = () => {
   const cls = useStyles();
   const [view, setView] = useState('all');
-  const [selectedFiat, setSelectedFiat] = useLocalStorage({ key: 'fiat', defaultValue: 'eur' });
+  const [selectedFiat, setSelectedFiat] = useLocalStorage({ key: 'fiat', defaultValue: 'myr' });
   const [result, updateCurrencies] = useCurrencies({ fiat: selectedFiat, interval: 10000 });
 
   const onFiatChange = async (fiat) => {
@@ -26,7 +26,7 @@ const App = () => {
   return (
     <Fragment>
       <Header
-        fiatOptions={['myr', 'usd']} 
+        fiatOptions={['myr', 'usd']}
         selectedFiat={selectedFiat}
         onFiatChange={onFiatChange}
       />

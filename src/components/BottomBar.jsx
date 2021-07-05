@@ -35,8 +35,8 @@ const useStyles = createUseStyles({
     fill: 'rgb(121, 109, 109)'
   },
   active: {
-    borderBottom: '2px rgb(240, 133, 19) solid',
-    fill: 'rgb(240, 133, 19)'
+    borderBottom: '2px rgb(0,0,20) solid',
+    fill: 'rgb(59,59,255)'
   }
 });
 

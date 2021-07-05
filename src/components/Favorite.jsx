@@ -25,7 +25,7 @@ const Favorite = (props) => {
       props.active
       ? <button className={cls.favorite} onClick={(e) => props.onClick(e)}>
           <FavoriteIcon
-            fill="rgb(240, 133, 19)"
+            fill="rgb(59,59,255)"
             width="18px"
             height="18px"
           />

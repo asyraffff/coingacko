@@ -32,8 +32,9 @@ const useStyles = createUseStyles({
     display: 'flex',
     justifyContent: 'flex-end',
     padding: 7,
-    background: '#fdc0763d',
+    // background: '#0000ff',
     color: '#262f3e',
+    fontWeight: 900
   },
   headingFtCol: {
     justifyContent: 'flex-start'

@@ -22,7 +22,7 @@ const useStyles = createUseStyles({
   },
   selected: {
     color: 'white',
-    background: 'rgb(240, 133, 19)',
+    background: 'rgb(59,59,255)',
     borderRadius: 5
   }
 
