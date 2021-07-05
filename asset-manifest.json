@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/coingacko/static/js/main.c8d01a2b.chunk.js",
+    "main.js.map": "/coingacko/static/js/main.c8d01a2b.chunk.js.map",
+    "runtime-main.js": "/coingacko/static/js/runtime-main.0d5943ad.js",
+    "runtime-main.js.map": "/coingacko/static/js/runtime-main.0d5943ad.js.map",
+    "static/js/2.03ff971d.chunk.js": "/coingacko/static/js/2.03ff971d.chunk.js",
+    "static/js/2.03ff971d.chunk.js.map": "/coingacko/static/js/2.03ff971d.chunk.js.map",
+    "index.html": "/coingacko/index.html",
+    "static/js/2.03ff971d.chunk.js.LICENSE.txt": "/coingacko/static/js/2.03ff971d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d5943ad.js",
+    "static/js/2.03ff971d.chunk.js",
+    "static/js/main.c8d01a2b.chunk.js"
+  ]
+}
