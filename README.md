@@ -4,9 +4,7 @@ A **Simplem Crypto Dashboard**
 
 **CoinGecko API-powered cryptocurrency dashboard**
 
-Live demo can be view [here](https://coingicko.netlify.app/)
-
-- Using API endpoints from [coingecko](https://www.coingecko.com/en/api.)
+- Using API endpoints from [coingecko](https://asyraffff.github.io/coingacko/)
 - List of 100 top coins
 - Displays coins current prices, Market Cap & Price Change in 24h & 7D
 - Display a 7 day data sparkline. 📈📉
